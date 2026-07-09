@@ -3,7 +3,7 @@ This is an Expo project bootstrapped with . It’s ready to help you build cross
 🛠️ Getting Started
 - Install dependencies
 npm install
-- Start the development server
+- Start the development server,
 npx expo start
 
  
