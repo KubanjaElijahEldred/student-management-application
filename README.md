@@ -2,7 +2,7 @@
 This is an Expo project bootstrapped with . It’s ready to help you build cross-platform apps for Android, iOS, and the web.
 🛠️ Getting Started
 - Install dependencies
-npm install
+npm instal
 - Start the development server,
 npx expo start
 
